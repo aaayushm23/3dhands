@@ -1,0 +1,9 @@
+.finger-info {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    padding: 10px;
+    background: white;
+    border: 1px solid black;
+  }
+      
